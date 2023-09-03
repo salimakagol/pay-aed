@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25f7e825.css",
+    "main.js": "/static/js/main.07374985.js",
+    "static/media/amx-icon-font.svg": "/static/media/amx-icon-font.920b54eac7354960b863.svg",
+    "static/media/amx-icon-font.eot": "/static/media/amx-icon-font.f571452e6ff3ba8d0911.eot",
+    "static/media/amx-icon-font.woff": "/static/media/amx-icon-font.f303be7af158b3d063d5.woff",
+    "static/media/amx-icon-font.ttf": "/static/media/amx-icon-font.3328e07c46ef2109391b.ttf",
+    "index.html": "/index.html",
+    "main.25f7e825.css.map": "/static/css/main.25f7e825.css.map",
+    "main.07374985.js.map": "/static/js/main.07374985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f7e825.css",
+    "static/js/main.07374985.js"
+  ]
+}
